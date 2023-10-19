@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="passed">Passed</string>
+    <string name="failed">Failed</string>
+    <string name="restart">Restart</string>
+    <string name="score_message">Score is %1\$d out of %2\$d</string>
+    <string name="coins_text">Coins: %1\$d</string>
+    <string name="rules">In the game you have to answer the question and win points. You can answer questions for coins. If you answer all the questions correctly, you will get points twice as much as you gave. If you have the correct answers from 10 to 14, then you will return your coins from 1.5 times more</string>
+</resources>
